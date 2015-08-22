@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B5FC329-9063-4CD4-B25C-CA26A4C6999C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4235A8FA8E1E3E6273CF8E6AEBB6D396A4B58F29</key>
+		<string>https://github.com/anuragbisht/RAAGNavigationDrawer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RAAGNavigationDrawer/RAAGNavigationDrawer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4235A8FA8E1E3E6273CF8E6AEBB6D396A4B58F29</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/anuragbisht/RAAGNavigationDrawer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4235A8FA8E1E3E6273CF8E6AEBB6D396A4B58F29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4235A8FA8E1E3E6273CF8E6AEBB6D396A4B58F29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RAAGNavigationDrawer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
