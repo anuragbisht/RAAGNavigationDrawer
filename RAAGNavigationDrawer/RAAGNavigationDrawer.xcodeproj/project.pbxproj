@@ -14,6 +14,17 @@
 		3C79E10A1B88600400600FF2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C79E1091B88600400600FF2 /* Images.xcassets */; };
 		3C79E10D1B88600400600FF2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3C79E10B1B88600400600FF2 /* LaunchScreen.xib */; };
 		3C79E1191B88600400600FF2 /* RAAGNavigationDrawerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C79E1181B88600400600FF2 /* RAAGNavigationDrawerTests.m */; };
+		3C8904F31B8A394F002DC099 /* naviTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C8904F11B8A394F002DC099 /* naviTableViewCell.m */; };
+		3C8904F41B8A394F002DC099 /* naviTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3C8904F21B8A394F002DC099 /* naviTableViewCell.xib */; };
+		3C9927E91B8B055A00FB0E89 /* project.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927E81B8B055A00FB0E89 /* project.jpg */; };
+		3C9927F31B8B07C600FB0E89 /* sign_out120x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927EC1B8B07C600FB0E89 /* sign_out120x.png */; };
+		3C9927F41B8B07C600FB0E89 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927ED1B8B07C600FB0E89 /* add.png */; };
+		3C9927F51B8B07C600FB0E89 /* explore120x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927EE1B8B07C600FB0E89 /* explore120x.png */; };
+		3C9927F61B8B07C600FB0E89 /* home120x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927EF1B8B07C600FB0E89 /* home120x.png */; };
+		3C9927F71B8B07C600FB0E89 /* my_story120x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927F01B8B07C600FB0E89 /* my_story120x.png */; };
+		3C9927F81B8B07C600FB0E89 /* profile120x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927F11B8B07C600FB0E89 /* profile120x.png */; };
+		3C9927F91B8B07C600FB0E89 /* setting120x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927F21B8B07C600FB0E89 /* setting120x.png */; };
+		3C9927FB1B8B08E000FB0E89 /* Kaley-Cuoco1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9927FA1B8B08E000FB0E89 /* Kaley-Cuoco1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +51,18 @@
 		3C79E1121B88600400600FF2 /* RAAGNavigationDrawerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RAAGNavigationDrawerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C79E1171B88600400600FF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C79E1181B88600400600FF2 /* RAAGNavigationDrawerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RAAGNavigationDrawerTests.m; sourceTree = "<group>"; };
+		3C8904F01B8A394F002DC099 /* naviTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = naviTableViewCell.h; sourceTree = "<group>"; };
+		3C8904F11B8A394F002DC099 /* naviTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = naviTableViewCell.m; sourceTree = "<group>"; };
+		3C8904F21B8A394F002DC099 /* naviTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = naviTableViewCell.xib; sourceTree = "<group>"; };
+		3C9927E81B8B055A00FB0E89 /* project.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = project.jpg; sourceTree = "<group>"; };
+		3C9927EC1B8B07C600FB0E89 /* sign_out120x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sign_out120x.png; sourceTree = "<group>"; };
+		3C9927ED1B8B07C600FB0E89 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
+		3C9927EE1B8B07C600FB0E89 /* explore120x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = explore120x.png; sourceTree = "<group>"; };
+		3C9927EF1B8B07C600FB0E89 /* home120x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home120x.png; sourceTree = "<group>"; };
+		3C9927F01B8B07C600FB0E89 /* my_story120x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = my_story120x.png; sourceTree = "<group>"; };
+		3C9927F11B8B07C600FB0E89 /* profile120x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile120x.png; sourceTree = "<group>"; };
+		3C9927F21B8B07C600FB0E89 /* setting120x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting120x.png; sourceTree = "<group>"; };
+		3C9927FA1B8B08E000FB0E89 /* Kaley-Cuoco1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Kaley-Cuoco1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +107,19 @@
 				3C79E1001B88600400600FF2 /* AppDelegate.h */,
 				3C79E1011B88600400600FF2 /* AppDelegate.m */,
 				3C79E1031B88600400600FF2 /* ViewController.h */,
+				3C9927E81B8B055A00FB0E89 /* project.jpg */,
+				3C9927EC1B8B07C600FB0E89 /* sign_out120x.png */,
+				3C9927ED1B8B07C600FB0E89 /* add.png */,
+				3C9927FA1B8B08E000FB0E89 /* Kaley-Cuoco1.png */,
+				3C9927EE1B8B07C600FB0E89 /* explore120x.png */,
+				3C9927EF1B8B07C600FB0E89 /* home120x.png */,
+				3C9927F01B8B07C600FB0E89 /* my_story120x.png */,
+				3C9927F11B8B07C600FB0E89 /* profile120x.png */,
+				3C9927F21B8B07C600FB0E89 /* setting120x.png */,
 				3C79E1041B88600400600FF2 /* ViewController.m */,
+				3C8904F01B8A394F002DC099 /* naviTableViewCell.h */,
+				3C8904F11B8A394F002DC099 /* naviTableViewCell.m */,
+				3C8904F21B8A394F002DC099 /* naviTableViewCell.xib */,
 				3C79E1061B88600400600FF2 /* Main.storyboard */,
 				3C79E1091B88600400600FF2 /* Images.xcassets */,
 				3C79E10B1B88600400600FF2 /* LaunchScreen.xib */,
@@ -199,9 +234,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C9927F41B8B07C600FB0E89 /* add.png in Resources */,
+				3C9927F31B8B07C600FB0E89 /* sign_out120x.png in Resources */,
+				3C9927F71B8B07C600FB0E89 /* my_story120x.png in Resources */,
+				3C9927FB1B8B08E000FB0E89 /* Kaley-Cuoco1.png in Resources */,
+				3C9927E91B8B055A00FB0E89 /* project.jpg in Resources */,
 				3C79E1081B88600400600FF2 /* Main.storyboard in Resources */,
+				3C9927F51B8B07C600FB0E89 /* explore120x.png in Resources */,
 				3C79E10D1B88600400600FF2 /* LaunchScreen.xib in Resources */,
 				3C79E10A1B88600400600FF2 /* Images.xcassets in Resources */,
+				3C9927F81B8B07C600FB0E89 /* profile120x.png in Resources */,
+				3C8904F41B8A394F002DC099 /* naviTableViewCell.xib in Resources */,
+				3C9927F61B8B07C600FB0E89 /* home120x.png in Resources */,
+				3C9927F91B8B07C600FB0E89 /* setting120x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +267,7 @@
 				3C79E1051B88600400600FF2 /* ViewController.m in Sources */,
 				3C79E1021B88600400600FF2 /* AppDelegate.m in Sources */,
 				3C79E0FF1B88600400600FF2 /* main.m in Sources */,
+				3C8904F31B8A394F002DC099 /* naviTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +464,7 @@
 				3C79E11E1B88600400600FF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C79E11F1B88600400600FF2 /* Build configuration list for PBXNativeTarget "RAAGNavigationDrawerTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +473,7 @@
 				3C79E1211B88600400600FF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
